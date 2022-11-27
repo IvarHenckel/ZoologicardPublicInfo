@@ -1,0 +1,3 @@
+google.com, pub-7418613011309006, DIRECT, f08c47fec0942fa0
+
+# Created the folder because you need an address that Google Admobile can append app-ads.txt to
